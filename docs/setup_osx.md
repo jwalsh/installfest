@@ -50,7 +50,7 @@ After you move it, double-click on it to start.
 
 You may get a message indicating that this type of files may be harmful for your computer and asking you if you still would like to run it. Allow running it: 
 
-- open "Security & Privacy" and clicking "Open Anyway" for the "blocked...unidentified developer" message, or 
+- open "Security & Privacy" and "Open Anyway" for the "blocked...unidentified developer" message, or 
 - if you get a message that the firewall has blocked some of its features, click "allow access". 
 
 Once Nightcode is successfully installed, it will start and look like the picture above (only without all the code).
