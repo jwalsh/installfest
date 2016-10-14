@@ -45,10 +45,13 @@ Note that we will be using Nightcode **1.3.2**, not any of the later versions of
 
 To download and install Nightcode 1.3.2, go to [https://github.com/oakes/Nightcode/releases/tag/1.3.2](https://github.com/oakes/Nightcode/releases/tag/1.3.2). 
 Under Downloads, click on **nightcode-1.3.2-standalone.jar**. 
-Once it downloads, you might want to drag it into your `Programs` folder or any other place where it would be convenient to access it later (you also might want to create a folder for Clojure work and put it there). 
+Once it downloads, you might want to drag it into your `Applications` folder or any other place where it would be convenient to access it later (you also might want to create a folder for Clojure work and put it there). 
 After you move it, double-click on it to start. 
 
-You may get a message indicating that this type of files may be harmful for your computer and asking you if you still would like to run it. Allow running it. If you get a message that the firewall has blocked some of its features, click "allow access". 
+You may get a message indicating that this type of files may be harmful for your computer and asking you if you still would like to run it. Allow running it: 
+
+- open "Security & Privacy" and clicking "Open Anyway" for the "blocked...unidentified developer" message, or 
+- if you get a message that the firewall has blocked some of its features, click "allow access". 
 
 Once Nightcode is successfully installed, it will start and look like the picture above (only without all the code).
 
